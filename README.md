@@ -4,20 +4,20 @@ This repo holds three different implementations of a "Broadcaster" in Golang and
 
 ---------------
 ### Types
-#####LinkedBroadcaster
-#####AsyncBroadcaster
-#####SyncBroadcaster
+##### LinkedBroadcaster
+##### AsyncBroadcaster
+##### SyncBroadcaster
 
 ------------
 
-###Results
+### Results
 
 These benchmark tests were ran on 64GB / 20 cores Droplet from DigitalOcean.
 
 
 ### Golang 1.4beta1
 
-```
+```golang
 
 ➜ go version
 go version go1.4beta1 linux/amd64
